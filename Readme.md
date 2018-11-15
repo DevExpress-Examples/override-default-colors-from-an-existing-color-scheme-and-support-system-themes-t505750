@@ -1,3 +1,14 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [App.xaml.cs](./CS/App.xaml.cs) (VB: [App.xaml.vb](./VB/ColosSchemesDemo1/App.xaml.vb))
+* [MainPage.xaml](./CS/MainPage.xaml) (VB: [MainPage.xaml](./VB/ColosSchemesDemo1/MainPage.xaml))
+* [MainPage.xaml.cs](./CS/MainPage.xaml.cs) (VB: [MainPage.xaml](./VB/ColosSchemesDemo1/MainPage.xaml))
+* [MainViewModel.cs](./CS/MainViewModel.cs) (VB: [MainViewModel.vb](./VB/ColosSchemesDemo1/MainViewModel.vb))
+* [RichEditEx.cs](./CS/RichEditEx.cs) (VB: [RichEditEx.vb](./VB/ColosSchemesDemo1/RichEditEx.vb))
+* [ThemeFriendlyNameConverter.cs](./CS/ThemeFriendlyNameConverter.cs) (VB: [ThemeFriendlyNameConverter.vb](./VB/ColosSchemesDemo1/ThemeFriendlyNameConverter.vb))
+* [generic.xaml](./CS/Themes/generic.xaml) (VB: [generic.xaml](./VB/ColosSchemesDemo1/Themes/generic.xaml))
+<!-- default file list end -->
 # Override default colors from an existing Color Scheme and support system themes
 
 
