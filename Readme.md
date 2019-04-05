@@ -3,7 +3,7 @@
 
 * [App.xaml.cs](./CS/App.xaml.cs) (VB: [App.xaml.vb](./VB/ColosSchemesDemo1/App.xaml.vb))
 * [MainPage.xaml](./CS/MainPage.xaml) (VB: [MainPage.xaml](./VB/ColosSchemesDemo1/MainPage.xaml))
-* [MainPage.xaml.cs](./CS/MainPage.xaml.cs) (VB: [MainPage.xaml](./VB/ColosSchemesDemo1/MainPage.xaml))
+* [MainPage.xaml.cs](./CS/MainPage.xaml.cs) (VB: [MainPage.xaml.vb](./VB/ColosSchemesDemo1/MainPage.xaml.vb))
 * [MainViewModel.cs](./CS/MainViewModel.cs) (VB: [MainViewModel.vb](./VB/ColosSchemesDemo1/MainViewModel.vb))
 * [RichEditEx.cs](./CS/RichEditEx.cs) (VB: [RichEditEx.vb](./VB/ColosSchemesDemo1/RichEditEx.vb))
 * [ThemeFriendlyNameConverter.cs](./CS/ThemeFriendlyNameConverter.cs) (VB: [ThemeFriendlyNameConverter.vb](./VB/ColosSchemesDemo1/ThemeFriendlyNameConverter.vb))
